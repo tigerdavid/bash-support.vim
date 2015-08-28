@@ -2,11 +2,11 @@
 §  User Macros
 § =============================================================
 
-SetMacro( 'AUTHOR',      'YOUR NAME' )
-SetMacro( 'AUTHORREF',   '' )
-SetMacro( 'COMPANY',     '' )
-SetMacro( 'COPYRIGHT',   '' )
-SetMacro( 'EMAIL',       '' )
+SetMacro( 'AUTHOR',      'Lichi Zhang' )
+SetMacro( 'AUTHORREF',   'TigerDavid' )
+SetMacro( 'COMPANY',     'Shanghai Jiao Tong University' )
+SetMacro( 'COPYRIGHT',   'Whatever License' )
+SetMacro( 'EMAIL',       'tigerdavidxeon@gmail.com' )
 SetMacro( 'LICENSE',     '' )
 SetMacro( 'ORGANIZATION','' )
 
